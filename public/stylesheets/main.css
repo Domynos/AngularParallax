@@ -1,0 +1,32 @@
+body {
+    font-size: 20px;
+    color: white;
+    text-shadow: 0 1px 0 black, 0 0 5px black;
+    margin:0;
+}
+
+h1 {
+    font-size:3em;
+    margin:0;
+    color:white;
+}
+
+.text-center{margin-top:0;}
+
+.content {
+    background-attachment: fixed;
+    height: 1080px;
+}
+#content1 {
+    background-image: url("/assets/images/background1.jpg");
+}
+#content2 {
+    background-image: url("/assets/images/background2.jpg");
+}
+#content3 {
+    background-image: url("/assets/images/background1.jpg");
+}
+#content4 {
+    background-image: url("/assets/images/background2.jpg");
+}
+}
